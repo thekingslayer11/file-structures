@@ -1,0 +1,2 @@
+1,Roller Coaster,Open,20,4
+2,Ferris Wheel,Closed,16,5
